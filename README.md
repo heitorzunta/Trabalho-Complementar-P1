@@ -10,11 +10,11 @@ Este repositório contém implementações em Java dos seguintes algoritmos de o
 
 Os algoritmos se encontram nos seguintes diretórios:
 
-1. Selection Sort: Diretório/Diretório2/codigo.java
-2. Bubble Sort: ....
-3. Insertion Sort : ..........
-4. Merge Sort: .......
-5. Quick Sort: ........
+1. Selection Sort: selectionSort/Main.java
+2. Bubble Sort: bubbleSort/Main.java
+3. Insertion Sort : insertionSort/Main.java
+4. Merge Sort: mergeSort/Main.java
+5. Quick Sort: quickSort/Main.java
 
 Sabe-se que os algoritmos são: Selection Sort é **O (n^2)**, Bubble Sort é **O (nˆ2)**, Insertion é **O(nˆ2)**, MergeSort é **O (nlog(n))** e QuickSort é **O (nlog(n))**;
 
