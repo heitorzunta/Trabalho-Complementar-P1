@@ -1,2 +1,2 @@
 # Trabalho Complementar P1
-<h1>Atividade complementar valendo 1 ponto
+<h2>Atividade complementar valendo 1 ponto
